@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Data Warehousing, Analysis, and Visualization for Bussines Insight
 
-[Project 1 Title](/sample_page)
+[Week 1](week1.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
