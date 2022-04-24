@@ -5,7 +5,7 @@
 ### Data Warehousing, Analysis, and Visualization for Bussines Insight
 
 [Week 1](https://colab.research.google.com/drive/14plVwkaArbDRah9Ra7uxgHYUBawMrdtn?authuser=1#scrollTo=ZKJae2uhxqdP)
-<img src="images/dummy_thumbnail1.jpg?raw=true"/>
+<img src="images/thumbnail1.jpg?raw=true"/>
 
 ---
 [Week 2](/pdf/sample_presentation.pdf)
